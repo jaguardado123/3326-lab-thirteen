@@ -115,7 +115,7 @@ Practice working with vectors by following the steps below.
 
 5. Replace "Mercedes" with "Cadilac" using the `set()` method and print to confirm.
 
-6. Clear the array.
+6. Clear the vector and print to confirm.
 
 ## Submit your assignment
 
